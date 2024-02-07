@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(3, 3, 119);
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cell {
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    background-color: rgb(29, 151, 199)
+}
